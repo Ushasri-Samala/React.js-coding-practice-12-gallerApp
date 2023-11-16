@@ -1,0 +1,16 @@
+/* Write your code here. */
+.item-container {
+  margin-right: 16px;
+}
+.thumbnail-img {
+  opacity: 0.5;
+}
+.active-img {
+  opacity: 1;
+}
+.button {
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background-color: transparent;
+}
